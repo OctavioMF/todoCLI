@@ -1,8 +1,6 @@
 # todoCLI
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/OctavioMF/todoCLI.git)
 
-`todoCLI` is a simple, command-line based to-do list manager written in Java. It allows you to create, update, delete, and list tasks directly from your terminal. All tasks are persisted locally in a `Todo.json` file created in the directory where the application is run.
-
+`todoCLI` is a simple, command-line based task tracker written in Java, built as a solution for the [Task Tracker project on roadmap.sh](https://roadmap.sh/projects/task-tracker). It allows you to create, update, delete, and manage the status of your tasks directly from your terminal. All tasks are persisted locally in a `Todo.json` file created in the directory where the application is run.
 ## Features
 
 *   **Add new tasks**: Create tasks with a description.
